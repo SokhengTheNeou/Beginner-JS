@@ -1,0 +1,16 @@
+body {
+  font-family: 'Times New Roman';
+  font-size: 3em;
+  text-align: center;
+}
+#myBtn {
+  font-size: 30px;
+  padding: 10px 25px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.Label {
+  font-size: 50px;
+}
